@@ -1,0 +1,1 @@
+print("Printed from test.py")
