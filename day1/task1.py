@@ -55,4 +55,5 @@ plt.text(0.5, 0.9, 'Note: X-axis clipped at 10 for visibility',
 plt.grid(alpha=0.3)
 
 plt.tight_layout()
+plt.savefig('uniform_transformations.png', dpi=300, bbox_inches='tight')
 plt.show()
